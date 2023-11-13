@@ -1,5 +1,6 @@
 # 目录
 * [gitbook用法](gitbook用法.md)
+* [git用法](git用法.md)
 * [大纲](大纲.md)
 * [无盘启动](无盘启动.md)
   * [Ubuntu22.04](Ubuntu22.04.md)
