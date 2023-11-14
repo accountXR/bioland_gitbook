@@ -1,5 +1,7 @@
 {
-    "title": "opencv",
+    "title": "Bioland",
+    "author": "XuR",
+    "description": "bioland 开发文档", 
     "output.name": "site",
     "language": "zh-hans",
     "gitbook": "3.2.3",
